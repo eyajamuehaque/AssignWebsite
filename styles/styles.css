@@ -245,7 +245,9 @@ body
     text-align: center;
     min-height: 400px;
     justify-content: center;
+    align-items: center;
     background: white;
+    padding: 10px;
 }
 
 .link ul
